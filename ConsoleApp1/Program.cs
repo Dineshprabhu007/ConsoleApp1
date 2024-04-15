@@ -6,7 +6,7 @@ namespace FirstProgram
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("H");
+            Console.WriteLine("Hello");
         }
     }
 }
